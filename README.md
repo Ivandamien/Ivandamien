@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Ivan OKELLO.
+Hi 👋 My name is IVAN OKELLO.
 ===========================
 
 Full-Stack Developer & Ui Designer
