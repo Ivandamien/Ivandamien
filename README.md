@@ -1,5 +1,5 @@
 
-Hi 👋 My name is IVAN OKELLO.
+Hi 👋 My name is Ivan OKELLO.
 ===========================
 
 Full-Stack Developer & Ui Designer
@@ -22,7 +22,7 @@ I'm a proficient software engineer and Data science enthusiast, driven with the 
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
   
 ### [FRONTEND]()
-<p>When it comes to FrontEnd Designing and programmming, my skills are well define with the use of the following Programming languages</p>
+<p>When it comes to FrontEnd Designing and programmming, my skills are well defined with the use of the following Programming languages</p>
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
