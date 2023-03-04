@@ -4,7 +4,7 @@ Hello 👋 My name is Ivan OKELLO.
 
 Full-Stack Developer & Ui Designer
 -------------------------------
-Here is my portfolio 👉 [ivan.dev](https://ivan-omega.vercel.app) incase you are looking for it
+##***Here is my portfolio 👉 [ivan.dev](https://ivan-omega.vercel.app) incase you are looking for it***
 
 I'm a proficient software engineer and Data science enthusiast, driven with the zeal to solve complex problems and strong eye for details that help to build responsive web and mobile applications which are human centered and impact the community positively. I have skills in various programming languages, skilled with working as a team and tenacity to never quit until the goal is achieved with perfection.
 
