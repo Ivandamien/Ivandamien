@@ -98,7 +98,7 @@ I'm a **proficient software engineer** and **Data Science enthusiast**, driven b
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-ivanokello.tech-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ivanokello.tech)
 [![Email](https://img.shields.io/badge/Email-ivanokello99@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanokello99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivano-kello)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-okello/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivanokello)
 
 </div>
